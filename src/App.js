@@ -295,9 +295,7 @@ export default function App() {
         <button onClick={resetScores}>Reset Scores</button>
       </div>
 
-      <p className="note">
-        Tip: this build includes <b>Theme</b>, <b>Emoji</b> and <b>AI (Easy)</b> options so your lab isn’t just the base tutorial.
-      </p>
+     
     </main>
   );
 }
